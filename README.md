@@ -24,16 +24,22 @@ The first reaction from my girl friend was "this looks like tv noise in colored"
 
 ...
 
-The parity patterns I've meet early 2019, quite interesting:
+The parity patterns I've meet early 2019, quite interesting.
+
+Patterns:
 
 <p align="center">
-  <img width="831" height="427" src="https://raw.githubusercontent.com/grensen/ML-Art/master/parity_01.png">
+  <img width="900" height="723" src="https://raw.githubusercontent.com/grensen/ML-Art/master/parity_01.png">
 </p>
 
-<p align="center">
-  <img width="831" height="427" src="https://raw.githubusercontent.com/grensen/ML-Art/master/parity_02.png">
-</p>
+Patterns:
 
 <p align="center">
-  <img width="831" height="427" src="https://raw.githubusercontent.com/grensen/ML-Art/master/parity_03.png">
+  <img width="900" height="723" src="https://raw.githubusercontent.com/grensen/ML-Art/master/parity_02.png">
+</p>
+
+Patterns:
+
+<p align="center">
+  <img width="900" height="723" src="https://raw.githubusercontent.com/grensen/ML-Art/master/parity_03.png">
 </p>

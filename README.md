@@ -29,8 +29,11 @@ The first reaction from my girl friend was "this looks like tv noise in colored"
 
 ## The Parity Patterns
 
-The parity patterns I've meet early 2019, quite interesting
+<p align="center">
+  <img width="900" height="723" src="https://raw.githubusercontent.com/grensen/ML-Art/master/parity_00.png">
+</p>
 
+The parity patterns I've meet early 2019, quite interesting
 
 <p align="center">
   <img width="900" height="723" src="https://raw.githubusercontent.com/grensen/ML-Art/master/parity_01.png">

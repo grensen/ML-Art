@@ -15,7 +15,7 @@ A dropout neural network with the working neurons
 ## The Math behind
 
 <p align="center">
-  <img width="640" height="500" src="https://github.com/grensen/ML-Art/blob/master/euler_tricks.png">
+  <img width="1098" height="663" src="https://github.com/grensen/ML-Art/blob/master/euler_tricks.png">
 </p>
 ---
 

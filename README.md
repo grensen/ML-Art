@@ -14,6 +14,9 @@ A dropout neural network with the working neurons
 
 ## The Math behind
 
+The deep Relationship between Machine Learning and e = (1+(1/N))^N. 
+If I try to think about e, I imagine it as a spectrum of grey colors.
+
 <p align="center">
   <img width="" height="" src="https://github.com/grensen/ML-Art/blob/master/euler_tricks.png">
 </p>

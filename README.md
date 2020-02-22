@@ -45,7 +45,8 @@ A nice visualization of a Dataset.
 <p align="center">
   <img width="837" height="821" src="https://github.com/grensen/ML-Art/blob/master/dataset.png">
 </p>
-Credits for this idea goes to professor ["Jörn Loviscach"](https://www.youtube.com/watch?v=41SdVA2aqKw)
+
+Credits for this idea goes to professor [Jörn Loviscach](https://www.youtube.com/watch?v=41SdVA2aqKw/)
 
 ---
 

@@ -7,7 +7,7 @@ Some stuff around my ML work
 
 A dropout neural network with the working neurons
 <p align="center">
-  <img width="640" height="500" src="https://github.com/grensen/ML-Art/blob/master/dropout_art.png">
+  <img src="https://github.com/grensen/ML-Art/blob/master/dropout_art.png">
 </p>
 
 ---
@@ -69,7 +69,7 @@ Really good fun!
 A nice visualization of a Dataset.
 
 <p align="center">
-  <img width="700" height="650" src="https://github.com/grensen/ML-Art/blob/master/dataset.png">
+  <img width="" height="" src="https://github.com/grensen/ML-Art/blob/master/dataset.png">
 </p>
 
 Credits for this idea goes to professor [Jörn Loviscach](https://www.youtube.com/watch?v=41SdVA2aqKw/)
@@ -79,23 +79,23 @@ Credits for this idea goes to professor [Jörn Loviscach](https://www.youtube.co
 ## The Parity Patterns
 
 <p align="center">
-  <img width="900" height="723" src="https://raw.githubusercontent.com/grensen/ML-Art/master/parity_00.png">
+  <img width="" height="" src="https://raw.githubusercontent.com/grensen/ML-Art/master/parity_00.png">
 </p>
 
 The parity patterns I've meet early 2019, quite interesting
 
 <p align="center">
-  <img width="900" height="723" src="https://raw.githubusercontent.com/grensen/ML-Art/master/parity_01.png">
+  <img width="" height="" src="https://raw.githubusercontent.com/grensen/ML-Art/master/parity_01.png">
 </p>
 
 A google seaarch after that art of patterns was not succesful
 
 <p align="center">
-  <img width="900" height="723" src="https://raw.githubusercontent.com/grensen/ML-Art/master/parity_02.png">
+  <img width="" height="" src="https://raw.githubusercontent.com/grensen/ML-Art/master/parity_02.png">
 </p>
 
 A dropout pattern seems like a way to use these patterns
 
 <p align="center">
-  <img width="900" height="723" src="https://raw.githubusercontent.com/grensen/ML-Art/master/parity_03.png">
+  <img width="" height="" src="https://raw.githubusercontent.com/grensen/ML-Art/master/parity_03.png">
 </p>

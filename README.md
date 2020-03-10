@@ -20,7 +20,7 @@ If I try to think about e, I imagine it as a spectrum of grey colors.
 <p align="center">
   <img width="" height="" src="https://github.com/grensen/ML-Art/blob/master/euler_tricks.png">
 </p>
-A full explanation of why ln() and exp() are so important would fill entire books. But with a basic understanding its clear to me how wonderful this visual expression is.
+A full explanation of why ln() and exp() are so important would fill entire books. But with a basic understanding it's clear to me how wonderful this visual expression is.
 
 ---
 

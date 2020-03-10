@@ -43,7 +43,8 @@ The first reaction from my girl friend was "this looks like tv noise in colored"
 
 ## Reinforcement Learning 
 
-A maze with Q-Learning
+A maze with Q-Learning, inspired by [Alexander Amini's](https://www.youtube.com/watch?v=nZfaHIxDD5w) great lecture on RL, my challenge started.
+
 
 <p align="center">
   <img src="https://github.com/grensen/ML-Art/blob/master/maze_unsolved.png">

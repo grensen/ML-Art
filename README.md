@@ -40,9 +40,9 @@ The first reaction from my girl friend was "this looks like tv noise in colored"
 ---
 
 
-## Reinforcement Learning with Q-Learning
+## Reinforcement Learning 
 
-With a Maze
+A Maze with Q-Learning
 
 <p align="center">
   <img src="https://github.com/grensen/ML-Art/blob/master/maze_unsolved.png">

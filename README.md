@@ -42,7 +42,7 @@ The first reaction from my girl friend was "this looks like tv noise in colored"
 
 ## Reinforcement Learning with Q-Learning
 
-Here is the Maze
+With a Maze
 
 <p align="center">
   <img src="https://github.com/grensen/ML-Art/blob/master/maze_unsolved.png">
@@ -50,8 +50,10 @@ Here is the Maze
 
 Credits for this idea goes to [Dr. James D. McCaffrey](https://docs.microsoft.com/en-us/archive/msdn-magazine/2018/august/test-run-introduction-to-q-learning-using-csharp)
 
+The Algorithm here based on his code.
 
-Did you solved it? My agent does. :-)
+---
+Did you solved the maze? My agent did. :-)
 
 
 <p align="center">

@@ -14,21 +14,22 @@ A dropout neural network with the working neurons
 
 ## The Math behind
 
-The deep Relationship between Machine Learning and e = (1+(1/N))^N. 
+The deep relationship between machine learning and e = (1+(1/N))^N. 
 If I try to think about e, I imagine it as a spectrum of grey colors.
 
 <p align="center">
   <img width="" height="" src="https://github.com/grensen/ML-Art/blob/master/euler_tricks.png">
 </p>
-A full explanation of why ln () and exp () are so important would fill entire books. But with a basic understanding its clear to me how wonderful this visual expression is.
+A full explanation of why ln() and exp() are so important would fill entire books. But with a basic understanding its clear to me how wonderful this visual expression is.
 
 ---
 
 ## Visualising Data
 
-60.000 dots in 10 colors, a trivial message behind the graph or my first try to visualize the entire MNIST dataset
-For the effects the Intel fast_rand() function comes in:
-(https://software.intel.com/en-us/articles/fast-random-number-generator-on-the-intel-pentiumr-4-processor)
+60.000 dots in 10 colors, a trivial message behind the graph or my first try to visualize the entire MNIST dataset.
+For the effects the [Intel fast_rand()](https://software.intel.com/en-us/articles/fast-random-number-generator-on-the-intel-pentiumr-4-processor)
+function comes in.
+
 
 
 
@@ -42,7 +43,7 @@ The first reaction from my girl friend was "this looks like tv noise in colored"
 
 ## Reinforcement Learning 
 
-A Maze with Q-Learning
+A maze with Q-Learning
 
 <p align="center">
   <img src="https://github.com/grensen/ML-Art/blob/master/maze_unsolved.png">
@@ -50,9 +51,10 @@ A Maze with Q-Learning
 
 Credits for this idea goes to [Dr. James D. McCaffrey](https://docs.microsoft.com/en-us/archive/msdn-magazine/2018/august/test-run-introduction-to-q-learning-using-csharp)
 
-The Algorithm here based on his code.
+The algorithm here based on his code.
 
 ---
+
 Did you solved the maze? My agent did. :-)
 
 
@@ -66,7 +68,7 @@ Really good fun!
 
 ## Datasets
 
-A nice visualization of a Dataset.
+A nice visualization of a dataset.
 
 <p align="center">
   <img width="" height="" src="https://github.com/grensen/ML-Art/blob/master/dataset.png">

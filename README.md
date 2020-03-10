@@ -38,15 +38,29 @@ For the effects the Intel fast_rand() function comes in:
 The first reaction from my girl friend was "this looks like tv noise in colored", and I was happy. :-)
 
 ---
-## Datasets
 
-A nice visualization of a Dataset.
+
+## Reinforcement Learning with Q-Learning
+
+Here is the Maze
 
 <p align="center">
   <img width="700" height="650" src="https://github.com/grensen/ML-Art/blob/master/dataset.png">
 </p>
 
 Credits for this idea goes to professor [Jörn Loviscach](https://www.youtube.com/watch?v=41SdVA2aqKw/)
+
+---
+
+## Datasets
+
+A nice visualization of a Dataset.
+
+<p align="center">
+  <img src="https://github.com/grensen/ML-Art/blob/master/maze_unsolved.png">
+</p>
+
+Credits for this idea goes to [Dr. James D. McCaffrey](https://docs.microsoft.com/en-us/archive/msdn-magazine/2018/august/test-run-introduction-to-q-learning-using-csharp)
 
 ---
 

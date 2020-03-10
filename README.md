@@ -91,7 +91,7 @@ The parity patterns I've meet early 2019, quite interesting
   <img width="" height="" src="https://raw.githubusercontent.com/grensen/ML-Art/master/parity_01.png">
 </p>
 
-A google seaarch after that art of patterns was not succesful
+A google search after that art of patterns was not succesful
 
 <p align="center">
   <img width="" height="" src="https://raw.githubusercontent.com/grensen/ML-Art/master/parity_02.png">

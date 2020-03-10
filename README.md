@@ -33,7 +33,7 @@ For the effects the Intel fast_rand() function comes in:
 
 
 <p align="center">
-  <img width="831" height="427" src="https://github.com/grensen/ML-Art/blob/master/60000_dots_and_10_colors_jiw.jpg">
+  <img width="" height="" src="https://github.com/grensen/ML-Art/blob/master/60000_dots_and_10_colors_jiw.jpg">
 </p>
 The first reaction from my girl friend was "this looks like tv noise in colored", and I was happy. :-)
 

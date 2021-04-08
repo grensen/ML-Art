@@ -12,6 +12,14 @@ A dropout neural network with the working neurons
 
 ---
 
+## Custom Perceptron
+
+<p align="center">
+  <img src="https://github.com/grensen/ML-Art/blob/master/custom_perceptron.png">
+</p>
+
+---
+
 ## The Math behind
 
 The deep relationship between machine learning and e = (1+(1/N))^N. 

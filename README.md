@@ -20,6 +20,17 @@ A dropout neural network with the working neurons
 
 ---
 
+## Mixed Linearity Network
+
+A deep neural network + multiclass logistic regression = mixed linearity network.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/grensen/ML-Art/master/figures/mixed_linearity_network.png?raw=true">
+</p>
+
+---
+
+
 ## The Math behind
 
 The deep relationship between machine learning and e = (1+(1/N))^N. 

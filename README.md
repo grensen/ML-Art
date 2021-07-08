@@ -7,7 +7,7 @@ Some stuff around my ML work
 
 A dropout neural network with the working neurons
 <p align="center">
-  <img src="https://github.com/grensen/ML-Art/blob/master/dropout_art.png">
+  <img src="https://github.com/grensen/ML-Art/blob/master/dropout_art.png?raw=true">
 </p>
 
 ---
@@ -15,7 +15,7 @@ A dropout neural network with the working neurons
 ## Custom Perceptron
 
 <p align="center">
-  <img src="https://github.com/grensen/ML-Art/blob/master/custom_perceptron.png">
+  <img src="https://github.com/grensen/ML-Art/blob/master/custom_perceptron.png?raw=true">
 </p>
 
 ---

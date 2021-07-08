@@ -35,6 +35,7 @@ A custom network can also be an autoencoder
 <p align="center">
   <img src="https://raw.githubusercontent.com/grensen/ML-Art/master/figures/custom_autoencoder.png?raw=true">
 </p>
+
 ---
 
 

@@ -15,7 +15,7 @@ A dropout neural network with the working neurons
 ## Spiral Multiclass Dataset
 
 <p align="center">
-  <img src="https://github.com/grensen/ML-Art/blob/master/spiral_demo.png?raw=true">
+  <img src="https://github.com/grensen/ML-Art/blob/master/figures/spiral_demo.png?raw=true">
 </p>
 
 ---

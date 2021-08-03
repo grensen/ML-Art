@@ -23,7 +23,7 @@ A dropout neural network with the working neurons
 ## Curved Linearity 2021
 
 <p align="center">
-  <img src="https://github.com/grensen/ML-Art/blob/master/figures/curvy_linearity.png?raw=true">
+  <img src="https://github.com/grensen/ML-Art/blob/master/figures/curvy_linearity.gif?raw=true">
 </p>
 
 ---

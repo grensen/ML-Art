@@ -18,6 +18,12 @@ A dropout neural network with the working neurons
   <img src="https://github.com/grensen/ML-Art/blob/master/figures/spiral_demo.png?raw=true">
 </p>
 
+## Curved Linearity 2021
+
+<p align="center">
+  <img src="https://github.com/grensen/ML-Art/blob/master/figures/curvy_linearity.png?raw=true">
+</p>
+
 ---
 
 ## Custom Perceptron

@@ -12,6 +12,14 @@ A dropout neural network with the working neurons
 
 ---
 
+## Logistic Regression Inside
+
+<p align="center">
+  <img src="https://github.com/grensen/ML-Art/blob/master/figures/logistic_regression_weight_map.png?raw=true">
+</p>
+
+---
+
 ## Spiral Multiclass Dataset
 
 <p align="center">

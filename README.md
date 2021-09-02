@@ -23,7 +23,7 @@ A dropout neural network with the working neurons
 ## Inside Neural Networks
 
 <p align="center">
-  <img src="https://github.com/grensen/ML-Art/blob/master/figures/hidden_interpretability.png?raw=true">
+  <img src="https://raw.githubusercontent.com/grensen/ML-Art/master/figures/hidden_interpretability.png?raw=true">
 </p>
 
 ---

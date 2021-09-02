@@ -12,7 +12,15 @@ A dropout neural network with the working neurons
 
 ---
 
-## Logistic Regression Inside
+## Inside Logistic Regression 
+
+<p align="center">
+  <img src="https://github.com/grensen/ML-Art/blob/master/figures/hidden_interpretability.png?raw=true">
+</p>
+
+---
+
+## Inside Neural Networks
 
 <p align="center">
   <img src="https://github.com/grensen/ML-Art/blob/master/figures/logistic_regression_weight_map.png?raw=true">

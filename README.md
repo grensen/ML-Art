@@ -20,6 +20,14 @@ A dropout neural network with the working neurons
 
 ---
 
+## Density-Net Limit Search
+
+<p align="center">
+  <img src="https://github.com/grensen/ML-Art/blob/master/2022/density_net_limit_search.png?raw=true">
+</p>
+
+---
+
 ## Inside Logistic Regression 
 
 <p align="center">

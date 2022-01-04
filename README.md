@@ -12,6 +12,14 @@ A dropout neural network with the working neurons
 
 ---
 
+## PeDe-Net 
+
+<p align="center">
+  <img src="https://github.com/grensen/ML-Art/blob/master/2022/pede_2022.png?raw=true">
+</p>
+
+---
+
 ## Inside Logistic Regression 
 
 <p align="center">

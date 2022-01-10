@@ -12,6 +12,14 @@ A dropout neural network with the working neurons
 
 ---
 
+## Reassessment Network Preview
+
+<p align="center">
+  <img src="https://github.com/grensen/ML-Art/blob/master/2022/reassessment_network_prev.png?raw=true">
+</p>
+
+---
+
 ## PeDe-Net 
 
 <p align="center">
@@ -20,7 +28,7 @@ A dropout neural network with the working neurons
 
 ---
 
-## Density-Net Limit Search
+## Density-Net Limit Search 
 
 <p align="center">
   <img src="https://github.com/grensen/ML-Art/blob/master/2022/density_net_limit_search.png?raw=true">

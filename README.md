@@ -15,7 +15,7 @@ A dropout neural network with the working neurons
 ## Reassessment Network Preview
 
 <p align="center">
-  <img src="https://github.com/grensen/ML-Art/blob/master/2022/reassessment_network_prev.png?raw=true">
+  <img src="https://github.com/grensen/ML-Art/blob/master/2022/reassessment_network.png?raw=true">
 </p>
 
 ---

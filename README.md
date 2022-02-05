@@ -12,6 +12,14 @@ A dropout neural network with the working neurons
 
 ---
 
+## Prediction Power
+
+<p align="center">
+  <img src="https://github.com/grensen/ML-Art/blob/master/2022/new_bench.png?raw=true">
+</p>
+
+---
+
 ## Reassessment Network Preview
 
 <p align="center">

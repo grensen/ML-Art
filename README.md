@@ -3,6 +3,14 @@ Some stuff around my ML work
 
 ---
 
+## Complex Spiral
+
+<p align="center">
+  <img src="https://github.com/grensen/ML-Art/blob/master/2022/complex_spiral_ultra.png?raw=true">
+</p>
+
+---
+
 ## The Neural Network
 
 A dropout neural network with the working neurons

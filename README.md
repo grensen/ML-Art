@@ -1,6 +1,8 @@
 # ML-Art
 Some stuff around my ML work
 
+"Eine wirklich gute Idee erkennt man daran, dass ihre Verwirklichung von vorne herein ausgeschlossen erscheint. Zitat Albert Einstein"
+
 ---
 
 ## Complex Spiral

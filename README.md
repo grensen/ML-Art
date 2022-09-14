@@ -3,6 +3,12 @@ Some stuff around my ML work
 
 "Eine wirklich gute Idee erkennt man daran, dass ihre Verwirklichung von vorne herein ausgeschlossen erscheint. Zitat Albert Einstein"
 
+## Density Test
+
+<p align="center">
+  <img src="https://github.com/grensen/ML-Art/blob/master/2022/density_test_demo.png?raw=true">
+</p>
+
 ---
 
 ## Complex Spiral
